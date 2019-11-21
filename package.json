@@ -1,0 +1,29 @@
+{
+  "name": "csci435backend",
+  "version": "1.0.0",
+  "description": "Backend of database class.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MahdiurRahman/csci435backend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MahdiurRahman/csci435backend/issues"
+  },
+  "homepage": "https://github.com/MahdiurRahman/csci435backend#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "mysql": "^2.17.1",
+    "mysql2": "^2.0.1",
+    "sequelize": "^5.21.2",
+    "tunnel-ssh": "^4.1.4"
+  }
+}
